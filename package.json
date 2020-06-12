@@ -1,0 +1,17 @@
+{
+  "name": "servlet",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "javascript-blowfish": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nvkex",
+  "license": "ISC"
+}
